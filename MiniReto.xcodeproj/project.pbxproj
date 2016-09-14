@@ -7,14 +7,14 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		F48E7B6F1D890F8E00AA0D4F /* MiniReto.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = MiniReto.playground; path = ../MiniReto.playground; sourceTree = "<group>"; };
+		F48E7B711D89121A00AA0D4F /* MiniReto.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MiniReto.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		F48E7B681D890F7A00AA0D4F = {
 			isa = PBXGroup;
 			children = (
-				F48E7B6F1D890F8E00AA0D4F /* MiniReto.playground */,
+				F48E7B711D89121A00AA0D4F /* MiniReto.playground */,
 			);
 			sourceTree = "<group>";
 		};
